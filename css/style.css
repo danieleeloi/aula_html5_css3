@@ -9,12 +9,13 @@ header {
 }
 
 h1 {
-    color: red;
+    color:rebeccapurple;
     font-family: fantasy;
 }
 
 h2 {
     font-family: fantasy;
+    color: rebeccapurple
 }
 
 p {
@@ -27,7 +28,7 @@ footer {
 
 .img_padrao {
     margin-bottom: 20px;
-    width: 300px;
+    width: 200px;
 }
 
 .logo {
